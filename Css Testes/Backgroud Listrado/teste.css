@@ -1,0 +1,13 @@
+/* teste
+**/
+
+body{
+	background-image: 
+		repeating-linear-gradient(
+			-45deg,
+			#000000 0px,
+			#000000 10px,
+			#0D7CB9 10px,
+			#0D7CB9 20px
+		);
+}
