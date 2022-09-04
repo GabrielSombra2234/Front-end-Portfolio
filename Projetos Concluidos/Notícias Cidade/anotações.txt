@@ -1,0 +1,6 @@
+Classes{
+	Duas ou mais classes{
+		"h3.detaque", desse jeito, precisariamos colocar essa classe em todos os h3 existentes, porém.
+		".descaque h3", assim, todos os h3 dentro de '.destaque', teram formatação.
+	}
+}
